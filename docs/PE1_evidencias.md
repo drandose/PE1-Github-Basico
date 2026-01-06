@@ -2,23 +2,27 @@
 
 
 
-\## Repositorio
+\## 1. Repositorio
+
+Nombre: PE1-Github-Basico  
+
+URL: https://github.com/drandose/PE1-Github-Basico
+
+
+
+\## 2. README
+
+El README.md se puede ver en la página principal del repositorio:  
 
 https://github.com/drandose/PE1-Github-Basico
 
 
 
-\## README
-
-El repositorio incluye un README.md visible y actualizado en la página principal.
-
-
-
-\## Commits realizados
+\## 3. Commits atómicos realizados
 
 \- docs: añadir resumen PE1
 
 \- docs: añadir notas básicas de Git
 
-\- docs: mejorar formato de notas de Git
+
 
